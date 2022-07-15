@@ -6,4 +6,4 @@ Installation
 `npm i inrl-db`
 
 Single Package
-`inrl-db": "1.0.2´
+`inrl-db: 1.0.2´
