@@ -1,8 +1,9 @@
-# inrlbot bot [NPM](https://www.npmjs.com/package/raganork-bot)
-NPM package for all bots based on Whatsasena
+# inrlbot bot [NPM](https://www.npmjs.com/package/inrl-db)
+Its used to index file for low db. This  module creates for teasting
+And decreese the size of repository. Also it work all bots based on hisoka mirow
 
 Installation
-`npm i inrl-bot`
+`npm i inrl-db`
 
 Single Package
-`"inrl-bot": "x.x.x"`
+"inrl-db": "1.0.2"
